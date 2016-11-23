@@ -1,6 +1,6 @@
 # Mapping_the_Commodore_64_Excel
 
-Update: I have added new hyperlinks to the Spreadsheet for the chapters, pages, VIC stuff, SID stuff, etc. This makes it much easier to navigate among a vast amount of cells.
+Update: I have added new hyperlinks to the Spreadsheet for the chapters, pages, VIC stuff, SID stuff, etc. This makes it much easier to navigate among a vast amount of cells. Use the file with the extension "FastLinks" to utilize this feature.
 
 It is finally here, but not complete yet. However you will have access to the Commodore 64 memory map information and programs in this Excel spreadsheet. Currently it contains memory addresses 0-62097 (65535 total - to go)
 
